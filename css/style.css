@@ -340,7 +340,7 @@ a:focus {
 }
 
 .tm-down-arrow-link {
-  width: 60px;
+  width: 84px;
   display: block;
   margin: -6% auto 0;
 }
@@ -350,6 +350,7 @@ a:focus {
   cursor: pointer;
   border-radius: 50%;
   padding: 10px 22px 8px;
+  -webkit-transition: all 0.3s ease;
   transition: all 0.3s ease;
 }
 
